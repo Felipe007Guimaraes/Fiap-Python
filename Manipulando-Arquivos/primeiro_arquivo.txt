@@ -1,0 +1,4 @@
+Meu primeiro arquivo escrito em linguagem python 
+Curso da FIAP ON.
+Meu primeiro arquivo escrito em linguagem python! 
+Curso da FIAP ON.
